@@ -24,4 +24,4 @@ Six: Edited on Github.
 
 Seven: once more for the commandline freaks.
 
-Eight: SEVEN SIX!
+Eight: SIX SEVEN
