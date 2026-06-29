@@ -25,3 +25,5 @@ Six: Edited on Github.
 Seven: once more for the commandline freaks.
 
 Mouse: useful instrument to control a computer.
+
+Rat: an animal.
